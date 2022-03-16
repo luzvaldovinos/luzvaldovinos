@@ -7,9 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luzvaldovinos&label=Profile%20views&color=0e75b6&style=flat" alt="luzvaldovinos" /> </p>
 
 - 🌱 I’m currently learning **JavaScript Frameworks**
-
-- 📄 Know about my experiences file:///Users/luzvaldovinos/Downloads/Luz_Valdovinos_Resume_16-03-2022-13-50-16.pdf](file:///Users/luzvaldovinos/Downloads/Luz_Valdovinos_Resume_16-03-2022-13-50-16.pdf)
-
 - ⚡ Fun fact **I love ceramics. I have more favorite mugs than there are days of the week.**
 
 <h3 align="left">Connect with me:</h3>

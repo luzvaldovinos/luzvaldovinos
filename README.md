@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript Frameworks**
 
-- 📄 Know about my experiences [https://app.flowcv.io/resume-feedback/YFYCNAXBzd_NDMhLD4XNN](https://app.flowcv.io/resume-feedback/YFYCNAXBzd_NDMhLD4XNN)
+- 📄 Know about my experiences file:///Users/luzvaldovinos/Downloads/Luz_Valdovinos_Resume_16-03-2022-13-50-16.pdf](file:///Users/luzvaldovinos/Downloads/Luz_Valdovinos_Resume_16-03-2022-13-50-16.pdf)
 
 - ⚡ Fun fact **I love ceramics. I have more favorite mugs than there are days of the week.**
 

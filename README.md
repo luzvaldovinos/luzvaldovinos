@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luzvaldovinos&label=Profile%20views&color=0e75b6&style=flat" alt="luzvaldovinos" /> </p>
 
-- 🌱 I’m currently learning **JavaScript Frameworks**
+- 🌱 I’m currently learning **React**
 - ⚡ Fun fact **I love ceramics. I have more favorite mugs than there are days of the week.**
 
 <h3 align="left">Connect with me:</h3>

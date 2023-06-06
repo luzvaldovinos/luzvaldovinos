@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luz Valdovinos</h1>
-<h3 align="center">A front-end developer from Chicago</h3>
+<h3 align="center">A  product designer & front-end developer from Chicago</h3>
 
 <p><img align="center" src="https://blush.design/api/download?shareUri=pTF85PXwagejB98O&c=Skin_0%7Ef7d3bb-0.5%7Ef7d3bb&w=800&h=800&fm=png" alt="girl on computer with plant and dog" /></p>
 
